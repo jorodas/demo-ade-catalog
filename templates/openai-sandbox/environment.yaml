@@ -1,0 +1,6 @@
+name: openai-sandbox
+version: 1.0.0
+summary: Azure OpenAI Sandbox for POC testing
+description: Deploys an Azure OpenAI resource for sandbox testing.
+runner: ARM
+templatePath: main.bicep
